@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   Lumache has its documentation hosted on Read the Docs.
+   MoveClod Documention.
 
 Contents
 --------
